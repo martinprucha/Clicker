@@ -157,7 +157,7 @@ public class ClickerForm extends javax.swing.JFrame {
 
         jPanel4.setBorder(javax.swing.BorderFactory.createTitledBorder("Ovládání"));
 
-        endBtn.setText("Konec");
+        endBtn.setText("Stop");
         endBtn.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 endBtnActionPerformed(evt);
